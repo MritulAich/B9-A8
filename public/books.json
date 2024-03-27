@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "bookName": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg",
+    "review": "Harper Lees To Kill a Mockingbird is a poignant tale of moral growth and racial injustice in a small Southern town, resonating with timeless themes of empathy and courage.",
+    "totalPages": 281,
+    "rating": 4.5,
+    "category": "Fiction",
+    "tags": [
+      "Coming-of-age",
+      "Legal drama"
+    ],
+    "publisher": "J.B. Lippincott & Co.",
+    "yearOfPublishing": 1960
+  },
+  {
+    "id": 2,
+    "bookName": "Nineteen Eighty-Four",
+    "author": "George Orwell",
+    "image": "https://sellular.com.bd/wp-content/uploads/2023/10/9789389053739.jpg",
+    "review": "1984 by George Orwell is a chilling dystopian novel depicting a totalitarian regime, exploring themes of surveillance, propaganda, and the struggle for individuality.",
+    "totalPages": 328,
+    "rating": 4.8,
+    "category": "Fiction",
+    "tags": [
+      "Dystopian",
+      "Political"
+    ],
+    "publisher": "Secker & Warburg",
+    "yearOfPublishing": 1949
+  },
+  {
+    "id": 3,
+    "bookName": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/The_Great_Gatsby_Cover_1925_Retouched.jpg/800px-The_Great_Gatsby_Cover_1925_Retouched.jpg",
+    "review": "The Great Gatsby portrays the Jazz Age's decadence and disillusionment through Jay Gatsby's pursuit of the American Dream. A timeless critique of the Roaring Twenties",
+    "totalPages": 180,
+    "rating": 4.3,
+    "category": "Fiction",
+    "tags": [
+      "Jazz Age",
+      "Romance"
+    ],
+    "publisher": "Charles Scribner's Sons",
+    "yearOfPublishing": 1925
+  },
+  {
+    "id": 4,
+    "bookName": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320399351i/1885.jpg",
+    "review": "Pride and Prejudice by Jane Austen intricately explores societal norms, romance, and character growth, with Elizabeth Bennet's wit and Mr. Darcy's evolution marking its brilliance.",
+    "totalPages": 279,
+    "rating": 4.7,
+    "category": "Fiction",
+    "tags": [
+      "Romance",
+      "Satire"
+    ],
+    "publisher": "T. Egerton, Whitehall",
+    "yearOfPublishing": 1813
+  },
+  {
+    "id": 5,
+    "bookName": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "image": "https://www.raptisrarebooks.com/wp-content/uploads/2015/06/3479-1.jpg",
+    "review": "The Catcher in the Rye by J.D. Salinger is a coming-of-age novel following Holden Caulfield's disillusionment with adulthood, encapsulating teenage angst and societal alienation.",
+    "totalPages": 277,
+    "rating": 4.2,
+    "category": "Fiction",
+    "tags": [
+      "Coming-of-age",
+      "Existentialism"
+    ],
+    "publisher": "Little, Brown and Company",
+    "yearOfPublishing": 1951
+  },
+  {
+    "id": 6,
+    "bookName": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "image": "https://g.christianbook.com/g/slideshow/9/928227/main/928227_1_ftc.jpg",
+    "review": "The Hobbit by J.R.R. Tolkien is a whimsical adventure of Bilbo Baggins, embarking on a journey with dwarves to reclaim their homeland, filled with magic and camaraderie.",
+    "totalPages": 310,
+    "rating": 4.6,
+    "category": "Fantasy",
+    "tags": [
+      "Adventure",
+      "Middle-earth"
+    ],
+    "publisher": "George Allen & Unwin",
+    "yearOfPublishing": 1937
+  },
+  {
+    "id": 7,
+    "bookName": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566425108l/33.jpg",
+    "review": "The Lord of the Rings trilogy by J.R.R. Tolkien is an epic fantasy saga following Frodo's quest to destroy the One Ring, encompassing themes of friendship, courage, and the battle between good and evil.",
+    "totalPages": 1178,
+    "rating": 4.9,
+    "category": "Fantasy",
+    "tags": [
+      "Adventure",
+      "Epic"
+    ],
+    "publisher": "George Allen & Unwin",
+    "yearOfPublishing": 1954
+  },
+  {
+    "id": 8,
+    "bookName": "Harry Potter and the Philosopher's Stone",
+    "author": "J.K. Rowling",
+    "image": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+    "review": "Harry Potter and the Philosopher's Stone introduces readers to a magical world of friendship, bravery, and adventure, as Harry uncovers his destiny at Hogwarts School of Witchcraft and Wizardry.",
+    "totalPages": 309,
+    "rating": 4.7,
+    "category": "Fantasy",
+    "tags": [
+      "Magic",
+      "Wizardry"
+    ],
+    "publisher": "Bloomsbury Publishing",
+    "yearOfPublishing": 1997
+  },
+  {
+    "id": 9,
+    "bookName": "The Hitchhiker's Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "image": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/6/25/1435245979235/047c9878-9845-473c-9635-5f32545746b0-1355x2040.jpeg?width=700&quality=85&auto=format&fit=max&s=606433bda33c8c27c5ebd7ba85900473",
+    "review": "The Hitchhiker's Guide to the Galaxy by Douglas Adams is a hilarious sci-fi romp through the cosmos, filled with absurdity, wit, and philosophical ponderings about the universe.",
+    "totalPages": 224,
+    "rating": 4.4,
+    "category": "Science Fiction",
+    "tags": [
+      "Humor",
+      "Space opera"
+    ],
+    "publisher": "Pan Books",
+    "yearOfPublishing": 1979
+  }
+]
