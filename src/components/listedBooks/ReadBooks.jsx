@@ -2,7 +2,7 @@
 const ReadBooks = () => {
     return (
         <div>
-            <p>it is section of books that has been read</p>
+            <p>Books those have been read</p>
         </div>
     );
 };
